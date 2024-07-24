@@ -1,0 +1,77 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -9.879
+TNS   : -498.332
+
+Type  : Slow 1200mV 85C Model Setup 'CPU:c1|ir_out[10]'
+Slack : -2.065
+TNS   : -27.895
+
+Type  : Slow 1200mV 85C Model Hold 'CPU:c1|ir_out[10]'
+Slack : -4.122
+TNS   : -61.280
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.328
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -121.392
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CPU:c1|ir_out[10]'
+Slack : -1.974
+TNS   : -235.340
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -8.867
+TNS   : -440.839
+
+Type  : Slow 1200mV 0C Model Setup 'CPU:c1|ir_out[10]'
+Slack : -1.953
+TNS   : -26.121
+
+Type  : Slow 1200mV 0C Model Hold 'CPU:c1|ir_out[10]'
+Slack : -3.658
+TNS   : -54.413
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -121.392
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CPU:c1|ir_out[10]'
+Slack : -1.776
+TNS   : -201.752
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -5.300
+TNS   : -249.850
+
+Type  : Fast 1200mV 0C Model Setup 'CPU:c1|ir_out[10]'
+Slack : -0.761
+TNS   : -9.610
+
+Type  : Fast 1200mV 0C Model Hold 'CPU:c1|ir_out[10]'
+Slack : -2.423
+TNS   : -35.902
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -118.224
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CPU:c1|ir_out[10]'
+Slack : -0.858
+TNS   : -91.911
+
+------------------------------------------------------------

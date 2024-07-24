@@ -1,0 +1,103 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\user\Desktop\mcu\do_files
+vCPU
+Z1 !s100 Y=nLd8lE:XZf@UG`Yle3T3
+Z2 IPFa=o]]DF7AV:b[j0UN:J3
+Z3 VlR4]:IbheZKCa^8?lHF>U0
+Z4 dC:\Users\user\Desktop\hw12\hw12\mcu\do_files
+Z5 w1608546025
+Z6 8../CPU.v
+Z7 F../CPU.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|../CPU.v|
+o-O0
+Z10 n@c@p@u
+Z11 !s108 1608550728.223000
+Z12 !s107 ../CPU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcpu_test
+Z13 !s100 C?6OLhcYLfKhHl=?IbPzL1
+Z14 IFMh0ZeYUUBVH>HCG`gLF53
+Z15 VVGT6fADEjD5?n>f62KZ7a0
+R4
+Z16 w1608550244
+Z17 8./CPU_test.v
+Z18 F./CPU_test.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|./CPU_test.v|
+o-O0
+Z20 !s108 1608550727.987000
+Z21 !s107 ./CPU_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Rom
+Z22 I:?5jJAd;AAkMh6RQf40MX1
+Z23 V[J?EiRjB;A1Y`=EzF>j9K0
+R4
+Z24 w1608550704
+Z25 8../Program_Rom.v
+Z26 F../Program_Rom.v
+L0 1
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|../Program_Rom.v|
+o-O0
+Z28 n@program_@rom
+Z29 !s100 @na^BUGTn6aGXVl6Xb[<90
+Z30 !s108 1608550728.598000
+Z31 !s107 ../Program_Rom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsingle_port_ram_128x8
+Z32 !s100 zBV]D8PHBl;]_Ve`Qha3S0
+Z33 I4lX0IEJ3]Pl`<DG]<MlTB1
+Z34 VzZNV<GVAnfl2nc:TUS4Zc0
+R4
+Z35 w1606730510
+Z36 8../single_port_ram_128x8.v
+Z37 F../single_port_ram_128x8.v
+L0 4
+R8
+r1
+31
+Z38 !s90 -reportprogress|300|../single_port_ram_128x8.v|
+o-O0
+!i10b 1
+!s85 0
+Z39 !s108 1608550728.984000
+Z40 !s107 ../single_port_ram_128x8.v|
+!s101 -O0
+vStack
+!i10b 1
+Z41 !s100 @aHKGjLo42`=e?X]2lYT61
+Z42 IL1J4inJGPUFeGLDM_9QmT3
+Z43 VO3Ud9lL@DCZBV;ffBWhPV0
+R4
+Z44 w1608539070
+Z45 8../Stack.v
+Z46 F../Stack.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1608550729.270000
+!s107 ../Stack.v|
+Z47 !s90 -reportprogress|300|../Stack.v|
+!s101 -O0
+o-O0
+Z48 n@stack
